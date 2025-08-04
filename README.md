@@ -5,3 +5,11 @@
 - Розподіл населення для оцінки масштабу впливу
 - Просторовий аналіз на мапі
 - Інструмент для екологічної аналітики та управлінських рішень
+
+**<img width="1192" height="677" alt="image" src="https://github.com/user-attachments/assets/87454465-574b-4025-8287-32c712ed2ffd" />
+**
+
+<img width="789" height="444" alt="image" src="https://github.com/user-attachments/assets/764fcb9a-1bfd-4405-8563-60a53db7731c" />
+
+<img width="792" height="455" alt="image" src="https://github.com/user-attachments/assets/a9014616-a46d-442b-a96a-0007c5dc2f2d" />
+
